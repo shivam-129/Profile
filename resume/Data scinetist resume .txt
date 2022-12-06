@@ -1,0 +1,270 @@
+#profile
+ ---------
+Vikash Verma
+
+Data Scientist
+
+1. A purpose-driven Data Scientist with deep analytical and quantitative expertise and Bachelor's in Artificial Intelligence and Machine Learning. 
+Seeking to leverage superior strategic and data mining skills to major company challenges . 
+Coming with strong programming skills and ability to build complex predictive models and machine-learning algorithms.
+
+2.A motivated and personable student pursuing a BA in Media Studies at the University of California Berkeley (GPA 3.89). 
+Eager to join ABC Inc. as Marketing Consultant to help establish quick and long-lasting relationships with customers and
+ assist in developing and implementing marketing materials. Strong theoretical  background in consumer behavior, 
+skilled at organizing events and copywriting (incl. 20+ reviews, brochures, and others).
+
+3.Certified data scientist with 12 years of experience for a diverse clientele. Achievements include updating data 
+streaming processes for an 18% reduction in redundancy, as well as improving the accuracy of predicted prices by 18%. 
+Highly-skilled in data visualization, machine learning, leadership.
+
+4.Motivated data scientist with 2+ years of experience as a freelance data scientist. Passionate about building models that 
+fix problems. Relevant skills include machine learning, problem solving, programming, and creative thinking.
+
+#contact
+----------
+8817956935
+vikashvermacom92@gmail.com
+https://www.linkedin.com/in/vikash-verma-/
+https://github.com/vikash129
+
+#education
+--------------
+Degree Type & Major
+University Name
+Years Studied
+GPA, Honours, Courses, and anything else you might want to add
+--------------------
+BSc in Statistic
+University of Bath
+2012 - 2016
+Relevant Courses: Probability and Statistics, Generalised Linear Models, Applied Statistics
+GPA: 3.8
+--------------------
+ 2018—present
+University of California Berkeley
+Media Studies
+GPA: 3.89
+
+
+Oriental Institute Of Science and Technology
+Present - Sep 2021 - May 2025
+Bachelor’s degree in computer science engineering
+Kendriya Vidyalaya Narmada Nagar
+2019 –  2021
+Higer secondary scool - 12th- 83.4%
+10th- 91.8%
+
+----------------
+Relevant coursework:
+
+Consumer Behavior
+Sociology of Culture
+Science, Narrative, Image
+Virtual Communities/Social Media
+Extracurricular activities and achievements:
+
+Dean’s List all semesters
+-------------------------------------------
+BS in Statistics, Syracuse University
+
+2008–2012
+
+ Excelled in machine learning and data science coursework.
+Completed a senior project to predict waitress tips in a busy Boston restaurant. Used decision trees, regression models, and SVM.
+President, AI club.
+ 
+
+Microsoft Professional Program for Data Science
+
+Completed all 10 required courses in Data Science (120 hours).
+Mastered 10 crucial data science skills.
+
+----------------------------------------------
+
+Bachelor's degree in Computer Scince Engineering 
+oriental institute of science and techenology
+2021-2025
+
+higher education
+kendriya vidyalaya narmada nagar
+
+
+#TEchnical SKills
+-------------------------
+
+#general/hard skills
+-------------------
+Data Analysis
+Statistics and Probability
+Data Visualization
+Machine Learning
+Deep Learning
+Modelling
+Mathematics
+Debugging
+Programming
+Data Structures and Algorithms
+Problem Solving
+
+++technical skills
+Hadoop
+TensorFlow
+Matplotlib
+
+
+
+#programming languages
+---------------------------
+Python,c++/c,html , css , javascrip,R Programming
+
+
+DatabaselServer:
+------------------------
+My SQL, SQL Server, No sql
+
+
+Operating System:
+---------------------
+Windows MacOS Linux
+
+
+Other SoftwarelTools:
+-----------------------------
+Microsoft Excel , Power bi  , Linix
+
+
+
+#Soft Skills for a Data Scientist Resume:
+-------------------------
+Critical Thinking
+Communication
+Research
+Time-Management
+Collaboration
+Analytical skills
+Creative thinking
+Interpersonal skills
+Leadership
+Marketing
+Motivation
+Oral and written communication
+Organizational skills
+Presentation skills
+Hard Skills
+Technical Skills
+Communication
+Creative Thinking
+Critical Thinking
+Collaboration
+
+
+-----------------------------------
+ 
+
+
+
+
+
+
+#Awards & Certificates:
+------------------------------
+“IBM Data Science” - Coursera Certificate
+Google Certified Professional Data Engineer – GCP
+Microsoft Professional Program Certificate in Data Science
+“Deep Learning” - Coursera Certificate
+“Critical Thinking Masterclass” - MadeUpUniversity
+Microsoft Professional Program Certificate in Data Science
+GCP – Google Certified Professional Data Engineer
+Cornell Data Analytics Certification (Online)
+CHDA – Certified Health Data Analyst
+CAP – Certified Analytics Professional
+
+Conferences
+AAAI Conference on Artificial Intelligence (2016)
+The Machine Learning Conference—Spoke on a Panel About AI (2014)
+ 
+Awards
+On team that won the Kaggle "Titanic: Machine Learning" challenge
+
+Additional Activities
+Article "Machine Learning in the Next 10 Years" cited in Forbes
+Leader of bi-monthly hiking club
+
+
+#Languages
+--------------
+english
+hindi
+
+
+Interests & Hobbies
+--------------------
+Music
+video games
+
+
+
+#WORK EXPERIENCE
+-----------------------------
+Position name
+Company Name
+Dates
+Responsibilities & Achievements
+-----------------------------
+
+1. Data Scientist
+Fuure Energy Ld
+
+oó/2o78 - Present Palo Alto, CA
+oó/2o78 - Present Palo Alto, CA
+
+Develop action plans to mitigate risks in decision making
+while increasing profltability by leveraging data science.
+
+Drive the interaction and partnership between the managers
+to ensure active cooperation in identifying as well as defining
+analytical needs, and generating the pull-through of insights
+with the business.
+
+Build prediclive models using various machine learning tools
+to predict the possibility of equipmen failure.
+
+Develop algorithms using Natural Language Processing and
+Deep Learning models for predictive maintenance.
+
+Design algorithms to track and detect anomalies in multiple
+sensors data for the Energy lndustry.
+
+Demonstrate knowledge and execution of application
+programming interface development and test automation
+-------------------
+Freelance Data Scientist
+
+2016–2017
+
+NCAAMaster: Beat 200+ statistics professors, students,
+ and professionals in an NCAA pool by finding the right data models for the job.
+
+FootForest: Used random forest regressor to predict fantasy football scores.
+
+Pylearn 2: Regular contributor to Machine Learning project on GitHub.
+----------
+
+Exend Capital
+
+Data Scientist
+
+2013–2017
+
+ 
+
+Fulfilled all data science duties for a high-end capital management firm.
+Created and presented models for potential holdings to fund managers. Achieved 20% better returns vs historical performance.
+Created machine learning tools that computed adjusted P/E values.
+Predicted stock price 25% better than traditional figures.
+
+
+
+
+
+
